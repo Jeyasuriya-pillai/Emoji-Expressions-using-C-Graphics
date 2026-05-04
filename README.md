@@ -21,7 +21,7 @@ This project demonstrates multiple facial expressions using C programming and th
 
 ## ▶️ How to Run
 1. Open Turbo C++
-2. Load the file `emoji_animation.c`
+2. Load the file `emoji.c`
 3. Set BGI path
 
 ## 👨‍💻 Author
